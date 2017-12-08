@@ -1,1 +1,1 @@
-# lung_texture_classification_cnn
+# lung texture classification cnn
